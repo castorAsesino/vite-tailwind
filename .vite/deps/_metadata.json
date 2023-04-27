@@ -1,0 +1,71 @@
+{
+  "hash": "08987f66",
+  "browserHash": "c7b34427",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "71f3484b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "549fd1b3",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "1f7a58ea",
+      "needsInterop": false
+    },
+    "chart.js": {
+      "src": "../../node_modules/chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "9d1289e2",
+      "needsInterop": false
+    },
+    "tailwindcss/resolveConfig": {
+      "src": "../../node_modules/tailwindcss/resolveConfig.js",
+      "file": "tailwindcss_resolveConfig.js",
+      "fileHash": "85696460",
+      "needsInterop": true
+    },
+    "react-flatpickr": {
+      "src": "../../node_modules/react-flatpickr/build/index.js",
+      "file": "react-flatpickr.js",
+      "fileHash": "4be284a3",
+      "needsInterop": true
+    },
+    "chartjs-adapter-moment": {
+      "src": "../../node_modules/chartjs-adapter-moment/dist/chartjs-adapter-moment.esm.js",
+      "file": "chartjs-adapter-moment.js",
+      "fileHash": "9aed586a",
+      "needsInterop": false
+    },
+    "react-transition-group": {
+      "src": "../../node_modules/react-transition-group/esm/index.js",
+      "file": "react-transition-group.js",
+      "fileHash": "4756eaf3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WJXR2LGH": {
+      "file": "chunk-WJXR2LGH.js"
+    },
+    "chunk-IBYF6I2I": {
+      "file": "chunk-IBYF6I2I.js"
+    },
+    "chunk-E3CQLV42": {
+      "file": "chunk-E3CQLV42.js"
+    },
+    "chunk-XSBMDBPI": {
+      "file": "chunk-XSBMDBPI.js"
+    },
+    "chunk-LFBQMW2U": {
+      "file": "chunk-LFBQMW2U.js"
+    }
+  }
+}
